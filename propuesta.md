@@ -1,4 +1,4 @@
-% «Aria»
+% Sitio web de búsqueda de ropa «Aria»
 % María Quirós Enríquez
 % Curso 2021/22
 
