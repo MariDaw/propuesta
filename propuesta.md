@@ -4,7 +4,7 @@
 
 # Descripción general del proyecto
 
-Explicar.
+Aria será un sitio web de búsqueda de ropa y accesorios donde podrás encontrar publicaciones de los outfits de tus influencers favoritos que incluirán los links de prendas similares a un precio asequible.
 
 ## Funcionalidad principal de la aplicación
 
